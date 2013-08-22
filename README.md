@@ -1,4 +1,7 @@
 blackfriday-online
 ==================
 
-a simple online server host on gae to make babelmark2 support blackfriday
+This is a simple online server to make babelmark2 support blackfriday.
+
+It is hosted on [gae](http://basingser.appspot.com).
+
