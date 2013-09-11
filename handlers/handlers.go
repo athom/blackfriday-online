@@ -34,7 +34,7 @@ var defaultResponder = NewBabelmarkResponder()
 func NewBabelmarkResponder() (r *BabelmarkResponder) {
 	r = &BabelmarkResponder{
 		Name:    "Blackfriday",
-		Version: "Qortex",
+		Version: "",
 	}
 	return
 }
